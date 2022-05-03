@@ -14,7 +14,7 @@ dia='✅'
 from collections import OrderedDict
 
 
-HTTP API:
+# HTTP API:
 # 5339966957:AAF4cmZSF8OH-BhwpNzsHHUic9ccn6_yQYs
 
 bot_token = '5339966957:AAF4cmZSF8OH-BhwpNzsHHUic9ccn6_yQYs'
