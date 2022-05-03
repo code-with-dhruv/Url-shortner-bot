@@ -17,7 +17,7 @@ from collections import OrderedDict
 # HTTP API:
 # 5339966957:AAF4cmZSF8OH-BhwpNzsHHUic9ccn6_yQYs
 
-bot_token = '5339966957:AAF4cmZSF8OH-BhwpNzsHHUic9ccn6_yQYs'
+bot_token = os.environ.get('TG_BOT_TOKEN')
 startmessage = [[
 		InlineKeyboardButton(
 			"Dev",
